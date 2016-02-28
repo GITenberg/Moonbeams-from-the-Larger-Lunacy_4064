@@ -1,0 +1,31 @@
+_repo: Moonbeams-from-the-Larger-Lunacy_4064
+creator:
+  author:
+    agent_name: Leacock, Stephen
+    alias: Leacock, Stephen Butler
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '1221'
+    url: http://www.gutenberg.org/2009/agents/1221
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Leacock
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canadian wit and humor'
+tableOfContents: 'Spoof: a thousand guinea novel -- The reading public -- Afternoon
+  adventures at my club -- Ram Spudd -- Aristocratic anecdotes -- Education made agreeable
+  -- An every-day experience -- Truthful oratory -- Our literary bureau -- Speeding
+  up business -- Who is also who -- Passionate paragraphs -- Weejee the pet dog --
+  Sidelights on the supermen -- The survival of the fittest -- The first newspaper
+  -- In the good time after the war.'
+title: Moonbeams from the Larger Lunacy
+url: http://www.gutenberg.org/ebooks/4064
