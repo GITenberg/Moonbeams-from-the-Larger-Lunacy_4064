@@ -1,5 +1,5 @@
 _repo: Moonbeams-from-the-Larger-Lunacy_4064
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,6 +27,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PS'
 - !lcsh 'Canadian wit and humor'
+- GITenberg
 tableOfContents: 'Spoof: a thousand guinea novel -- The reading public -- Afternoon
   adventures at my club -- Ram Spudd -- Aristocratic anecdotes -- Education made agreeable
   -- An every-day experience -- Truthful oratory -- Our literary bureau -- Speeding
